@@ -2,7 +2,7 @@
 
 Wanderlust is a full-stack web application for exploring, creating, and reviewing travel listings. It provides user authentication, secure sessions, image uploads, and real-time review features.
 
-✅ **Demo Link:** *\[https://wanderlust-caed.onrender.com]*
+✅ **Demo Link:** *\https://wanderlust-caed.onrender.com*
 (click on explore)
 
 ---
